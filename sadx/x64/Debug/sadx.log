@@ -1,0 +1,2 @@
+﻿  pch.cpp
+C:\Users\fagus\Desktop\dllsa1\sadx\sadx\SADXModLoader.h(10,1): fatal  error C1189: #error:  Mods must be built targeting 32-bit x86, change your settings.
